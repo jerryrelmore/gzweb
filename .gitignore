@@ -1,7 +1,7 @@
 # Build Outputs
-build
-gz3d/build
-build_*
+#build
+#gz3d/build
+#build_*
 
 # Just Mac Things
 .DS_Store
